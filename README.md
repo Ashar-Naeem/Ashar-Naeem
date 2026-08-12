@@ -1,12 +1,115 @@
+# 👋 Hi, I'm Ashar Naeem
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ashar-Naeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ashar-Naeem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashar-Naeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💻 Software Engineering Student | Frontend Developer | Aspiring Full-Stack Developer
+
+I'm a **Software Engineering student** passionate about building modern, responsive, and interactive web applications.
+
+Currently, I'm focused on strengthening my skills in **JavaScript, React, frontend development, and backend technologies** while building real-world projects and improving my problem-solving abilities.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ashar-Naeem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 Software Engineering Student
+* 💻 Currently learning **React.js & modern JavaScript**
+* 🌐 Interested in **Full-Stack Web Development**
+* 🔧 Building projects to improve my development skills
+* 🧠 Practicing programming, problem-solving, and software engineering concepts
+* 🚀 Interested in learning **MERN Stack**
+* 🤝 Open to internships, collaboration, and learning opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🌤️ Weather App
+
+A weather application built with HTML, CSS, and JavaScript that retrieves weather information and displays it through an interactive UI.
+
+🔗 **Repository:** [Weather App](https://github.com/Ashar-Naeem/Weather-app)
+
+---
+
+### 🎨 3D Designed Portfolio
+
+A personal portfolio website focused on showcasing my skills, projects, and development journey with an interactive design.
+
+🌐 **Live Website:** [portfolioasharnaeem.netlify.app](https://portfolioasharnaeem.netlify.app/)
+
+🔗 **Repository:** [3D Designed Portfolio](https://github.com/Ashar-Naeem/3D-Designed-Portfolio-Website)
+
+---
+
+## 📚 Currently Working On
+
+* ⚛️ React.js
+* 🟨 Advanced JavaScript
+* 🌐 REST APIs
+* 🖥️ Backend Development
+* 🗄️ Databases
+* 🚀 MERN Stack
+* 🧩 Data Structures & Algorithms
+
+---
+
+## 🎯 My Goal
+
+> **To become a skilled Software Engineer capable of building scalable, useful, and high-quality software.**
+
+I'm continuously learning, building projects, and improving one step at a time.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashar-Naeem&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashar-Naeem&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/Ashar-Naeem">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolioasharnaeem.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
