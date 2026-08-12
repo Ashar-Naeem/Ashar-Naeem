@@ -50,14 +50,6 @@ Currently, I'm focused on strengthening my skills in **JavaScript, React, fronte
 
 ## 📌 Featured Projects
 
-### 🌤️ Weather App
-
-A weather application built with HTML, CSS, and JavaScript that retrieves weather information and displays it through an interactive UI.
-
-🔗 **Repository:** [Weather App](https://github.com/Ashar-Naeem/Weather-app)
-
----
-
 ### 🎨 3D Designed Portfolio
 
 A personal portfolio website focused on showcasing my skills, projects, and development journey with an interactive design.
@@ -90,12 +82,11 @@ I'm continuously learning, building projects, and improving one step at a time.
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashar-Naeem&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashar-Naeem&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashar-Naeem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashar-Naeem&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
----
 
 ## 🤝 Connect With Me
 
