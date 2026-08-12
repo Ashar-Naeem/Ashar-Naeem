@@ -40,7 +40,7 @@ Currently, I'm focused on strengthening my skills in **JavaScript, React, fronte
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
 
-### Currently Learning
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
@@ -102,5 +102,3 @@ I'm continuously learning, building projects, and improving one step at a time.
 ---
 
 ### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Growing 🚀**
