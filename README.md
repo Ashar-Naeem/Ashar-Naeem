@@ -16,11 +16,11 @@
 ### 🚀 About Me
 
 - 🎓 Software Engineering student, currently sharpening my full-stack skills
-- 💻 Comfortable with **C++**, **JavaScript**, **HTML**, and **CSS**
+- 💻 Comfortable with **C++**, **JavaScript**, **React**,**Node js**,**Express js**,**Bootstrap**,**HTML**, and **CSS**
 - 🤖 Passionate about building **AI-powered web applications**
 - 🌱 Always learning something new — from OOP fundamentals to modern web tech
 - 📌 Check out my pinned projects below to see what I've been building
-- 💬 Ask me about C++, OOP, or front-end development
+- 💬 Ask me about C++, OOP, or mern stack
 - 📫 Open to internship opportunities — let's connect!
 
 ---
@@ -105,14 +105,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashar-Naeem&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Ashar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashar-Naeem&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ashar-Naeem&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Ashar's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashar-Naeem&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashar-Naeem&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 
