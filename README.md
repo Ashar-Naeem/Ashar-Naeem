@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Student | Building AI-powered Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Development;C%2B%2B+%7C+JavaScript+%7C+HTML+%7C+CSS;Building+AI-powered+Web+Applications;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Development;C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node js;Building+AI-powered+Web+Applications;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
