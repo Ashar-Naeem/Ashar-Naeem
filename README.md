@@ -3,11 +3,16 @@
 <h3 align="center">Software Engineering Student | Building AI-powered Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Development;C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node js;Building+AI-powered+Web+Applications;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Full-Stack+Development;C%2B%2B+%7C+JavaScript+%7C+MongoDB+%7C+React+%7C+Node.js;Building+AI-powered+Web+Applications;Open+to+Internships+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ashar-Naeem"><img src="https://komarev.com/ghpvc/?username=Ashar-Naeem&label=Profile%20Views&color=2ECC71&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/Ashar-Naeem">
+    <img src="https://komarev.com/ghpvc/?username=Ashar-Naeem&label=Profile%20Views&color=2ECC71&style=flat" alt="Profile Views" />
+  </a>&nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ECC71?style=flat&logo=briefcase&logoColor=white" alt="Open to Internships" />
 </p>
 
