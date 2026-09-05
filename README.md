@@ -1,219 +1,184 @@
 <div align="center">
-  
-# 👋 Hi, I'm Ashar Naeem
 
-### Software Engineering Student | AI-Powered Web Apps Developer 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58A6FF&height=220&section=header&text=Ashar%20Naeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20SE%20Student&descAlignY=58&descSize=20" width="100%"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ashar-Naeem&label=Profile%20Views&color=00D9FF&style=flat-square)](https://github.com/Ashar-Naeem)
-![Open to Internships](https://img.shields.io/badge/Status-Open%20to%20Internships-00D9FF?style=flat-square&logo=briefcase)
-![GitHub Followers](https://img.shields.io/github/followers/Ashar-Naeem?style=flat-square&color=00D9FF)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%8E%93;MERN+Stack+%2B+AI%2FML+Developer+%F0%9F%92%BB;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Ashar-Naeem"><img src="https://komarev.com/ghpvc/?username=Ashar-Naeem&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views"/></a>
+<a href="https://github.com/Ashar-Naeem?tab=followers"><img src="https://img.shields.io/github/followers/Ashar-Naeem?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="Followers"/></a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge" alt="Open to internships"/>
 
 </div>
 
----
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Applications;Open+Source+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+## 🧭 About Me
 
----
+<img align="right" width="290" src="https://raw.githubusercontent.com/hemantsharma1997/Code_Editor_gif/master/Coding.gif" />
 
-## 💫 About Me
+- 🎓 Software Engineering student, deep in the trenches of **full-stack development**
+- 🧱 Building with the **MERN stack** — MongoDB, Express, React, Node.js
+- 💻 Also fluent in **C++, JavaScript, HTML & CSS**
+- 🤖 Obsessed with building **AI-powered web applications** — chatbots, computer vision, job-hunting agents, tax intelligence
+- 🏆 Hackathon builder — most recently shipped an AI tax-intelligence platform
+- 🌱 Currently leveling up my full-stack + AI integration skills
+- 📌 **Actively looking for internship opportunities** — let's talk!
+- ⚡ Fun fact: I turn "that's impossible" into a weekend side project
 
-I'm a passionate **Software Engineering student** dedicated to creating impactful, AI-powered web applications. I combine strong fundamentals in **OOP and C++** with modern full-stack development skills to build scalable solutions.
-
-- 🎓 Currently studying Software Engineering with a focus on full-stack development
-- 💻 Expert in **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🤖 Specialized in building **AI-integrated web applications**
-- 🏆 Hackathon participant and project builder
-- 📚 Continuous learner exploring emerging technologies
-- 🔍 Passionate about clean code and best practices
-- 💬 Ask me about **C++, OOP, MERN Stack, or AI integration**
-- 🚀 **Open to internship opportunities** — Let's build something amazing!
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,tailwind,git,github,vscode&theme=dark" alt="Tech stack icons"/>
+
+<br/><br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🏆 CareerPilot — AI Job Hunting Assistant
-**[Repository](https://github.com/Ashar-Naeem/CareerPilot-Ai-Job-Hunting-Assistant)**
-
-A production-ready, multi-user AI-powered job hunting assistant featuring:
-- 🎯 Fit-ranked job search algorithm
-- 📄 Tailored resume & cover letter generation
-- 🎤 AI-powered mock interview preparation
-- 📊 Pipeline tracking with live analytics
-- 👥 Multi-user support with authentication
-
-**Tech Stack:** MongoDB | Express | React | Node.js
-
----
-
-### 💬 Conversational Chat Bot
-**[Repository](https://github.com/Ashar-Naeem/Chat-Bot)**
-
-AI-powered conversational bot with a modern interface and robust backend.
-- Real-time messaging
-- AI conversation engine
-- Clean, responsive UI
-
-**Tech Stack:** Node.js | Express | JavaScript
-
----
-
-### 🎨 3D Designed Portfolio Website
-**[Repository](https://github.com/Ashar-Naeem/3D-Designed-Portfolio-Website)**
-
-Immersive personal portfolio featuring stunning 3D visuals and smooth animations.
-- Interactive 3D elements
-- Smooth scroll animations
-- Modern design patterns
-- Optimized with Vite
-
-**Tech Stack:** JavaScript | Vite | Three.js
-
----
-
-### 🎨 Aero Canvas AI — Gesture-Based Drawing App
-**[Repository](https://github.com/Ashar-Naeem/Aero-Canvas-AI)**
-
-Revolutionary drawing application using AI-powered hand tracking — draw without a stylus!
-- Hand gesture recognition
-- Real-time drawing feedback
-- Intuitive controls
-
-**Tech Stack:** JavaScript | TensorFlow.js
-
----
-
-### 🏥 Hospital Management System
-**[Repository](https://github.com/Ashar-Naeem/OOP-Final-project-Hospital-Management-System)**
-
-Comprehensive OOP demonstration project showcasing advanced design patterns.
-- Inheritance & Polymorphism
-- Composition & Aggregation
-- Complete management system
-
-**Tech Stack:** C++
-
----
-
-### 🎬 Netflix Clone
-**[Repository](https://github.com/Ashar-Naeem/Netflix-clone)**
-
-Pixel-perfect Netflix landing page recreation with modern UI design.
-- Responsive layout
-- Modern CSS styling
-- Professional design
-
-**Tech Stack:** HTML5 | CSS3
-
----
-
-### 🎮 Tic Tac Toe Game
-**[Repository](https://github.com/Ashar-Naeem/Tik-Tac-Toe-Cpp-)**
-
-Interactive Tic Tac Toe game demonstrating OOP principles in C++.
-
-**Tech Stack:** C++
-
----
-
-### 💰 TaxGraph AI — Hackathon Solution
-**[Repository](https://github.com/Ashar-Naeem/Tax-Dectector-AI-hackathon2026-solution)**
-
-AI-powered tax intelligence platform for identifying financial anomalies.
-
-**Tech Stack:** HTML5
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![Ashar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashar-Naeem&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&text_color=00D9FF&title_color=00D9FF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashar-Naeem&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=00D9FF&title_color=00D9FF)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Ashar-Naeem&theme=radical&hide_border=true&background=0d1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF)
-  
 </div>
 
 ---
 
-## 🏆 Highlights
+## 📌 Featured Projects
 
-- 💡 Built multiple production-ready full-stack applications
-- 🤖 Experienced in AI/ML integration with web applications
-- 🎯 Strong foundation in OOP and Data Structures
-- 🔄 Proficient in version control and collaborative development
-- 🎓 Continuous learner adapting to industry trends
+<div align="center">
+<table>
+
+<tr>
+<td width="50%">
+
+### 🤖 [AN MultiModel ChatBot](https://github.com/Ashar-Naeem/AN-MultiModel-ChatBot)
+A multi-model AI chatbot built on the MERN stack that lets users interact with several AI models in one interface.
+
+![MERN](https://img.shields.io/badge/MERN-Stack-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Ashar-Naeem/AN-MultiModel-ChatBot?style=flat-square&color=yellow)
+
+</td>
+<td width="50%">
+
+### 💼 [CareerPilot – AI Job Hunting Assistant](https://github.com/Ashar-Naeem/CareerPilot-Ai-Job-Hunting-Assistant)
+An AI-powered assistant that helps job seekers navigate the hunt — from matching to applications — built on MERN.
+
+![MERN](https://img.shields.io/badge/MERN-Stack-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Ashar-Naeem/CareerPilot-Ai-Job-Hunting-Assistant?style=flat-square&color=yellow)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧾 [TaxGraph AI](https://github.com/Ashar-Naeem/Tax-Dectector-AI-hackathon2026-solution)
+AI-powered tax intelligence platform built for a 2026 hackathon — flags high-net-worth income mismatches to fight tax evasion.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Ashar-Naeem/Tax-Dectector-AI-hackathon2026-solution?style=flat-square&color=yellow)
+
+</td>
+<td width="50%">
+
+### ✋ [Aero Canvas AI](https://github.com/Ashar-Naeem/Aero-Canvas-AI)
+Gesture-based drawing app powered by AI hand tracking — draw in the air, no stylus or touchscreen required.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/Ashar-Naeem/Aero-Canvas-AI?style=flat-square&color=yellow)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏥 [Hospital Management System](https://github.com/Ashar-Naeem/OOP-Final-project-Hospital-Management-System)
+Console-based C++ system demonstrating inheritance, polymorphism, composition, and aggregation.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Ashar-Naeem/OOP-Final-project-Hospital-Management-System?style=flat-square&color=yellow)
+
+</td>
+<td width="50%">
+
+### 🙂 Face Detector
+_Link me the repo and I'll drop it in here with its own badge and blurb._
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Energy Optimization
+_Link me the repo and I'll drop it in here with its own badge and blurb._
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+
+</table>
+</div>
 
 ---
 
-## 📌 What I'm Currently Doing
-
-- 🔭 Working on advanced **AI-powered web applications**
-- 🌱 Deepening knowledge of **system design and scalability**
-- 💻 Contributing to open-source projects
-- 🎯 Preparing for internship opportunities
-- 📖 Exploring **cloud deployment and DevOps**
-
----
-
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashar-naeem)
+<!--
+  These are generated by YOUR OWN GitHub Action (see .github/workflows/metrics.yml)
+  and committed straight into this repo as an SVG file. They load from your repo,
+  not a third-party server, so they cannot get rate-limited or show broken.
+  See the setup steps below the fold — takes about 2 minutes.
+-->
+<img src="./github-metrics.svg" alt="Ashar's GitHub metrics" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>⚙️ One-time setup for the stats above (2 minutes, do this once)</b></summary>
+
+<br/>
+
+I already added the workflow file (`.github/workflows/metrics.yml`) that generates this image. It's self-hosted in your own repo, so it never breaks the way the old `vercel.app` cards did. To activate it:
+
+1. Create a **Personal Access Token**: GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token → scopes: `repo` and `read:user`.
+2. In **this repo's** Settings → Secrets and variables → Actions → New repository secret → name it `METRICS_TOKEN` → paste the token.
+3. Go to the **Actions** tab of this repo → select "Generate GitHub Metrics" → **Run workflow**.
+4. Wait ~30 seconds — it will commit a file called `github-metrics.svg` to your repo, which is exactly what the image above points to.
+5. After that, it auto-refreshes every 6 hours on its own. No more broken widgets.
+
+</details>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashar-Naeem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=safari&logoColor=white)](https://your-portfolio.com)
+<!-- Swap these placeholders for your real links and they'll light up the same way -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) -->
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0f2027&height=120&section=footer" width="100%"/>
 
-<div align="center">
-
-## 🌟 A Few More Things
-
-> "Code is poetry written in logic" — Ashar Naeem
-
-⭐ **If you find my repositories helpful, don't forget to star them!**
-
----
-
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=flat-square" />
-
-**Thank you for visiting my profile! Feel free to explore my repositories, fork projects, or reach out for collaborations. Let's build something incredible together! 🚀**
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/Ashar-Naeem">Ashar-Naeem</a> — thanks for stopping by!</i></p>
