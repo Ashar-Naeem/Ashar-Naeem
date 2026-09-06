@@ -153,7 +153,10 @@ Simulates and optimizes energy usage for a factory using an Isolation Forest ano
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashar-Naeem&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="Ashar's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashar-Naeem&amp;theme=github_dark" alt="Ashar's GitHub stats" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashar-Naeem&amp;theme=github_dark" alt="Top languages" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Ashar-Naeem&amp;theme=github-dark&amp;hide_border=true" alt="GitHub streak" width="49%" />
 
 </div>
 
